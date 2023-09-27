@@ -73,3 +73,10 @@ a:hover{
 .presiLinks{
     background-color: rgba(219, 242, 252, 0.614);
 }
+.TablaEncuestas{
+    margin: auto;
+    width: 50%;
+    border-collapse: separate;
+   border-spacing: 5px;
+   border-style: double;
+}
